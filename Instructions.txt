@@ -1,0 +1,17 @@
+Jackson Campbell
+10/17/17 1st period
+Go fish pseudo-code
+At the start of the game, each player is dealt 5 cards; the remaining cards are placed in a stack in the center. 
+While 13 books have not been placed on the table:
+The player to the left of the dealer then starts by asking another player if they have a certain rank of card that they own; 
+If they do;
+ That player is required to hand over all the cards of that rank that they have;
+If they don’t;
+ The player responds with “go fish” and the asker has to draw a card from the center;
+ A player gains points by having 4 cards of the same rank (rank being 2-10, king, queen, joker and ace); 
+If a player has 4 cards of the same rank;
+ They take all cards that apply from their deck and lay them together in front of them (which are called a book) which count as one point for that player and they can ask for a card of a rank they own again.
+If they don’t;
+	Their turn ends, and the player to the left takes their turn.
+If 13 books have been placed down:
+	The game ends, and the player with the most points is the winner.
